@@ -139,6 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="homeWork.cpp" />
     <ClCompile Include="Lesson_28.cpp" />
     <ClCompile Include="practice.cpp" />
   </ItemGroup>
